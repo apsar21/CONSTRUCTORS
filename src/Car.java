@@ -1,7 +1,0 @@
-
-public class Car {
-	String getspeed(){
-		return "0";
-	}
-
-}
